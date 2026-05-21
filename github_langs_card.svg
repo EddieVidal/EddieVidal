@@ -1,0 +1,7 @@
+<svg width="320" height="195" viewBox="0 0 320 195" xmlns="http://www.w3.org/2000/svg">
+  <defs><clipPath id="bc"><rect x="20" y="70" width="280" height="8" rx="4"/></clipPath></defs>
+  <rect width="320" height="195" rx="10" fill="#1a1b27" stroke="#2d2d44" stroke-width="1"/>
+  <text x="20" y="48" font-size="14" font-weight="bold" fill="#70a5fd" font-family="Segoe UI,sans-serif">Tecnologias</text>
+  <g clip-path="url(#bc)"><rect x="20.00" y="70" width="140.00" height="8" fill="#3572A5"/><rect x="160.00" y="70" width="140.00" height="8" fill="#e34c26"/></g>
+  <circle cx="25" cy="99" r="4" fill="#3572A5"/><text x="34" y="103" font-size="11" fill="#a9b1d6" font-family="Segoe UI,sans-serif">Python</text><text x="163" y="103" font-size="11" fill="#e0def4" font-weight="bold" font-family="Segoe UI,sans-serif" text-anchor="end">50.00%</text><circle cx="173" cy="99" r="4" fill="#e34c26"/><text x="182" y="103" font-size="11" fill="#a9b1d6" font-family="Segoe UI,sans-serif">HTML</text><text x="311" y="103" font-size="11" fill="#e0def4" font-weight="bold" font-family="Segoe UI,sans-serif" text-anchor="end">50.00%</text>
+</svg>
