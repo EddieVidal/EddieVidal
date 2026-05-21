@@ -100,7 +100,8 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
     title="Flask"
     width="30px" 
     style="padding-right: 10px; filter: brightness(0) invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
+    style="padding-right: 10px; filter: brightness(0) invert(1);" 
 />
 <img 
     align="left" 
@@ -108,7 +109,7 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
     title="Django"
     width="30px" 
     style="padding-right: 10px; filter: brightness(0) invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" 
 />
 
 <img 
@@ -130,8 +131,6 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
 
 ### 📊 Estatísticas
 
