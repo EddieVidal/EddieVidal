@@ -133,29 +133,9 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
 
 ### 📊 Estatísticas
 
-<<<<<<< HEAD
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EddieVidal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieVidal&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-=======
 ### 📊 Estatísticas
 
 <p>
   <img src="github_stats_card.svg" height="195" style="padding-right:8px" />
   <img src="github_langs_card.svg" height="195" />
 </p>
->>>>>>> e9177770c09d7b1a21d7fbc69d84c9fa1bb51193
