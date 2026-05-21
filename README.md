@@ -133,6 +133,7 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
 
 ### 📊 Estatísticas
 
+<<<<<<< HEAD
 <p>
   <img 
     align="left" 
@@ -150,3 +151,11 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
   />
 
 </p>
+=======
+### 📊 Estatísticas
+
+<p>
+  <img src="github_stats_card.svg" height="195" style="padding-right:8px" />
+  <img src="github_langs_card.svg" height="195" />
+</p>
+>>>>>>> e9177770c09d7b1a21d7fbc69d84c9fa1bb51193
