@@ -71,7 +71,6 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&size=28&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Python+Developer;Creative+Technologist;Building+Intelligent+Systems"/>
