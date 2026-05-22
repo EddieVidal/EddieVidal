@@ -132,9 +132,14 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
 <br/>
 <br/>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&size=28&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Python+Developer;Creative+Technologist;Building+Intelligent+Systems"/>
+</p>
+
 ### 📊 Estatísticas
 
 <p>
   <img src="github_stats_card.svg" height="195" style="padding-right:8px" />
   <img src="github_langs_card.svg" height="195" />
+  <img src="https://streak-stats.demolab.com?user=EddieVidal&theme=tokyonight&hide_border=true&background=1A1B27&stroke=1A1B27&ring=70A5FD&fire=70A5FD&currStreakNum=C792EA&sideNums=70A5FD&currStreakLabel=C792EA&sideLabels=70A5FD&dates=38BDAE" height="195" width="820" />  
 </p>
