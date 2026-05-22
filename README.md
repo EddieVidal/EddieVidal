@@ -56,78 +56,19 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
 </p>
 
 ---
+<br/>
 
-### 🤖 Linguagens e Tecnologias
+<p 
+    align="center"> 
+    <b>🤖 Linguagens e Tecnologias<b>
+</p>
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<br/>
+<br/>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px; filter: brightness(0) invert(1);" 
-    src="https://img.shields.io/badge/Flask-grey?style=flat-square&logo=flask&logoColor=white"
-    style="padding-right: 10px; filter: brightness(0) invert(1);" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px; filter: brightness(0) invert(1);" 
-    src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" 
-/>
-
-<img 
-    align="left" 
-    alt="Photoshop"
-    title="Photoshop" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Illustrator"
-    title="Illustrator" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" 
-/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,css,html,flask,django,git,vscode,photoshop,illustrator"/>
+</p>
 
 <br/>
 <br/>
