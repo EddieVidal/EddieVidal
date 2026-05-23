@@ -67,7 +67,7 @@ Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intui
 <br/>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,css,html,flask,django,git,vscode,supabase,photoshop,illustrator"/>
+<img src="https://skillicons.dev/icons?i=python,css,html,flask,django,git,mysql,github,vscode,supabase,photoshop,illustrator"/>
 </p>
 
 <br/>
