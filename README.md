@@ -13,7 +13,7 @@ Minha base em artes visuais (Photoshop, Illustrator, InDesign e Affinity) me
 permite criar identidades visuais com foco em padrões geométricos, logo design e vetores, sempre priorizando 
 a fidelidade conceitual e a estética.
 
-🔗 Conecte-se comigo: [Linkedin](https://www.linkedin.com/in/edson-vidal-69a656130/).
+🔗 Conecte-se comigo: [Linkedin](https://www.linkedin.com/in/EdsonVidal-Eddie).
 
 ### Além do Código
 Acredito que o desenvolvimento de alto nível exige um equilíbrio entre a intuição criativa, o rigor estratégico e a resistência física. Minhas práticas fora das telas são onde recarrego a energia e refino as habilidades que aplico no meu trabalho:
